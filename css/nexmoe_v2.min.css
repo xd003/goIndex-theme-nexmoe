@@ -8,11 +8,10 @@
 .nexmoe-nav {
     height: 56px;
     width: 100%;
-    background-color: #fff;
+    background-color: #171B20;
     box-shadow: 0 2px 6px rgba(0,0,0,.04);
 }
 .navSize{
-    background-color: #171B20;
     position: relative;
     height: 56px;
     max-width: 1100px;
