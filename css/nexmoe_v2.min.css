@@ -113,7 +113,6 @@ opacity: 1; /*结尾状态 透明度为1*/
     border-radius: 5px;
     -webkit-box-shadow: 0 0.2em 1em rgba(204, 204, 204, .3);
     box-shadow: 0 0.2em 1em rgba(204, 204, 204, .3);
-    background-color: #fff;
 }
 
 /*路径导航*/
