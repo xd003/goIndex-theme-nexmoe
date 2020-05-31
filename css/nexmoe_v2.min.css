@@ -200,6 +200,10 @@ opacity: 1; /*结尾状态 透明度为1*/
     margin-bottom: 10px !important;
 }
 
+.mdui-list-item:hover {
+    background-color: #232427
+    color: #FFFFFF;
+
 .mdui-text-color-blue-grey-500 {
     margin-top: 20px;
     color: ##E4E4E4 !important;
