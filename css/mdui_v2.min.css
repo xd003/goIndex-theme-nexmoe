@@ -4686,7 +4686,7 @@ template {
 body {
     font-family: Roboto, Noto, Helvetica, Arial, sans-serif;
     font-size: 14px;
-    color: #D3D3D3;
+    color: #E4E4E4;
     background-color: #333232;
 }
 @media (min-width: 600px) {
@@ -5692,7 +5692,7 @@ th.mdui-table-cell-checkbox .mdui-checkbox {
     font-family: inherit;
     font-size: 16px;
     line-height: 20px;
-    color: #D3D3D3;
+    color: #E4E4E4;
     resize: none;
     background: 0 0;
     border: none;
@@ -5731,7 +5731,7 @@ th.mdui-table-cell-checkbox .mdui-checkbox {
     display: block;
     width: 100%;
     font-size: 16px;
-    color: #D3D3D3;
+    color: #E4E4E4;
     pointer-events: none;
     -webkit-transition: all 0.2s;
     transition: all 0.2s;
