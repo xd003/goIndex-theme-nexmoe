@@ -1,4 +1,4 @@
-﻿/*隐藏滚动条*/
+/*隐藏滚动条*/
 ::-webkit-scrollbar {
     width: 0px;
     height: 0px;
@@ -112,8 +112,8 @@ opacity: 1; /*结尾状态 透明度为1*/
 	margin: 20px -8px 0 !important;
     padding: 15px !important;
     border-radius: 5px;
-    -webkit-box-shadow: 0 0.2em 1em rgba(204, 204, 204, .3);
-    box-shadow: 0 0.2em 1em rgba(204, 204, 204, .3);
+    -webkit-box-shadow: 0 0.2em 1em rgba(35, 36, 39);
+    box-shadow: 0 0.2em 1em rgba(35, 36, 39);
 }
 
 /*路径导航*/
