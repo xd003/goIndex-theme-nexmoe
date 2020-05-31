@@ -5731,7 +5731,7 @@ th.mdui-table-cell-checkbox .mdui-checkbox {
     display: block;
     width: 100%;
     font-size: 16px;
-    color: rgba(0, 0, 0, 0.54);
+    color: #D3D3D3;
     pointer-events: none;
     -webkit-transition: all 0.2s;
     transition: all 0.2s;
