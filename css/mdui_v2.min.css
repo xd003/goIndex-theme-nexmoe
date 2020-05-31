@@ -8023,7 +8023,7 @@ input.mdui-btn[type="submit"] {
     cursor: pointer;
 }
 .mdui-select-menu-item:hover {
-    background-color: #eee;
+    background-color: #333232;
 }
 .mdui-select-menu-item:first-child {
     margin-top: 8px;
