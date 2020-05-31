@@ -4686,8 +4686,8 @@ template {
 body {
     font-family: Roboto, Noto, Helvetica, Arial, sans-serif;
     font-size: 14px;
-    color: #ffffff;
-    background-color: #121212;
+    color: #D3D3D3;
+    background-color: #171B20;
 }
 @media (min-width: 600px) {
     body {
