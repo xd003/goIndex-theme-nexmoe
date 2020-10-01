@@ -41,9 +41,8 @@ const authConfig = {
  * web ui 设置
  */
 const uiConfig = {
-  "theme": "material", // DO NOT set it to classic
-  "dark_mode": false,
-  "main_color": "blue-grey",
+  "theme": "default", //default, material-dark, dark 
+  "main_color": "blue",
   "accent_color": "blue",
   "fluid_navigation_bar": true,
   "avatar": "https://i.ibb.co/DwMwdFv/photo-2020-05-25-22-58-28.jpg",
@@ -98,7 +97,7 @@ function html(current_drive_order = 0, model = {}) {
     window.current_drive_order = ${current_drive_order};
     window.UI = JSON.parse('${JSON.stringify(uiConfig)}');
   </script>
-  <script src="https://cdn.jsdelivr.net/gh/xd003/goIndex-theme-nexmoe@master/app_v3_en.js"></script>
+  <script src="https://cdn.jsdelivr.net/gh/xd003/goIndex-theme-nexmoe@master/app_v3_en.min.js"></script>
 </head>
 <body>
 </body>
